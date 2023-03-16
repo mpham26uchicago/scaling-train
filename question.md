@@ -2,6 +2,8 @@ Things to think about
 
 1. What does $\text{Lie}(SU(n) \otimes SU(m))$ looks like? maybe $\mathfrak{su}(n) \otimes \mathfrak{su}(m)$?
 
+The answer is no $\text{Lie}(SU(n) \otimes SU(m))$ is not $\mathfrak{su}(n) \otimes \mathfrak{su}(m)$?. I think the tensor product of the Lie algbra makes the resulting exponential too large. So the quest continues...
+
 2. Two decomposition is isomorphic if $P\ell_iP^\dagger$ and $Pm_iP^\dagger$. Can I rederive the magic basis?
 
 3. If $\mathfrak{h}, \mathfrak{h}^\prime$ are two maximal abelian subalgebra of $\mathfrak{m}$ can the intersection $\mathfrak{h} \cap \mathfrak{h}^\prime$ be bigger than {0}
